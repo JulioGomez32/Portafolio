@@ -1,0 +1,106 @@
+.body{
+   background-color: rgb(203, 208, 211)  ;
+   }
+
+#i1{
+   
+   position: relative;
+   text-align: center;
+}
+
+#p1{
+   text-align: justify;
+   position: relative;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ #p2{
+   text-align: justify;
+   position: relative;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#p3{
+   text-align: justify;
+   position: relative;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: black;
+}
+
+#p4{
+   text-align: justify;
+   position: relative;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: black;
+}
+
+#p5{
+   text-align: justify;
+   position: relative;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: black;
+}
+
+#p6{
+   text-align: justify;
+   position: relative;
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#h11{
+  position: relative;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+}
+
+#h12{
+   position: relative;
+   text-align: center;
+   color: rgb(41, 84, 179);
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: normal;
+ }
+
+
+ #h21{
+   position: relative; 
+   text-align: center;
+   bottom: 60%;
+ }
+
+ #h22{
+   position: relative; 
+   text-align: center;
+   bottom: 60%;
+ }
+
+ #h23{
+   position: relative; 
+   text-align: center;
+ }
+
+ #h24{
+   position: relative; 
+   text-align: center;
+   color: rgb(41, 84, 179);
+ }
+
+ #h41{
+   color: rgb(41, 84, 179);
+ }
+
+ #h42{
+   color: rgb(41, 84, 179);
+ }
+
+ #h43{
+   color: rgb(41, 84, 179);
+ }
